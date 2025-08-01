@@ -125,35 +125,6 @@ When users select dietary restrictions, the app intelligently:
 - Touch-friendly interface
 - Optimized for various browsers
 
-## 🚀 Deployment
-
-### Cloudflare Workers Deployment
-
-1. **Install Wrangler CLI**
-   ```bash
-   npm install -g wrangler
-   ```
-
-2. **Login to Cloudflare**
-   ```bash
-   wrangler login
-   ```
-
-3. **Configure wrangler.jsonc** (already configured)
-
-4. **Set up secrets**
-   ```bash
-   wrangler secret put QLOO_API_KEY
-   wrangler secret put MOCHA_USERS_SERVICE_API_KEY
-   wrangler secret put MOCHA_USERS_SERVICE_API_URL
-   ```
-
-5. **Deploy**
-   ```bash
-   npm run build
-   wrangler deploy
-   ```
-
 ## 🛠️ Development Commands
 
 ```bash
