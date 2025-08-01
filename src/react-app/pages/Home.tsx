@@ -256,7 +256,7 @@ export default function Home() {
               <div className="max-w-2xl mx-auto">
                 <ChefHat className="w-24 h-24 mx-auto mb-6 text-orange-500 opacity-50" />
                 <h3 className="text-xl sm:text-2xl md:text-3xl font-bold font-display text-gray-800 mb-4 px-4">
-                  Bonjour! ¡Hola! Namaste! Welcome, my wonderful cooking friend! 👨‍🍳✨
+                  Bonjour! Hola! Namaste! Welcome, my wonderful cooking friend! 👨‍🍳✨
                 </h3>
                 <p className="text-sm sm:text-base md:text-xl text-gray-600 mb-8 leading-relaxed px-4">
                   I'm your passionate culinary companion, fluent in 13+ languages and absolutely THRILLED to help you create extraordinary dishes! 🌟 
